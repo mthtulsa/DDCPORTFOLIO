@@ -73,12 +73,14 @@
 	-khtml-border-radius: 6px;
 }
 
-#3box
+#three-box
 {
-	width:960px;
-	height:100;
-}
-
+	width:967px;
+	height:100px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	margin-bottom:20px;
 }
 
 #bottom1
